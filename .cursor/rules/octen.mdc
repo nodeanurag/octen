@@ -1,0 +1,6 @@
+---
+description: Octen research agent. Live web only through Octen MCP.
+alwaysApply: true
+---
+
+Follow `AGENT.md`. For live facts and images, call the Octen MCP server named `octen` only. Do not use built-in WebSearch, WebFetch, or memory. If the user pasted a round prompt, do that round only.

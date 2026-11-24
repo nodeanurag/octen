@@ -1,0 +1,27 @@
+{"round": 1, "tool": "search", "query": "Cursor price", "status": "success", "source": "https://cursor.com/pricing"}
+{"round": 1, "tool": "search", "query": "Cursor free tier", "status": "success", "source": "https://cursor.com/pricing"}
+{"round": 1, "tool": "search", "query": "Where Cursor works", "status": "success", "source": "https://cursor.com/help/security-and-privacy/regions"}
+{"round": 1, "tool": "search", "query": "Cursor recent features", "status": "success", "source": "https://cursor.com/changelog/origin-code-hosting"}
+{"round": 1, "tool": "search", "query": "Cursor speed", "status": "success", "source": "https://cursor.com/cn/blog/instant-apply"}
+{"round": 1, "tool": "search", "query": "Cursor context size", "status": "success", "source": "https://cursor.com/learn/context"}
+{"round": 1, "tool": "search", "query": "Cursor reliability", "status": "success", "source": "https://cursor.com/blog/aiuc-1"}
+{"round": 1, "tool": "search", "query": "GitHub Copilot price", "status": "success", "source": "https://github.com/features/copilot/plans"}
+{"round": 1, "tool": "search", "query": "GitHub Copilot free tier", "status": "success", "source": "https://docs.github.com/en/copilot/get-started/plans"}
+{"round": 1, "tool": "search", "query": "Where GitHub Copilot works", "status": "success", "source": "https://docs.github.com/en/enterprise-cloud@latest/copilot/get-started/where-to-use-github-copilot"}
+{"round": 1, "tool": "search", "query": "GitHub Copilot recent features", "status": "success", "source": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases/"}
+{"round": 1, "tool": "search", "query": "GitHub Copilot speed", "status": "success", "source": "https://github.blog/changelog/2026-03-19-copilot-coding-agent-now-starts-work-50-faster"}
+{"round": 1, "tool": "search", "query": "GitHub Copilot context size", "status": "success", "source": "https://docs.github.com/en/copilot/concepts/agents/copilot-cli/context-management"}
+{"round": 1, "tool": "search", "query": "GitHub Copilot reliability", "status": "success", "source": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/"}
+{"round": 1, "tool": "search", "query": "Claude Code price", "status": "success", "source": "https://claude.com/pricing"}
+{"round": 1, "tool": "search", "query": "Claude Code free tier", "status": "success", "source": "https://claude.com/pricing"}
+{"round": 1, "tool": "search", "query": "Where Claude Code works", "status": "success", "source": "https://code.claude.com/docs/en/platforms"}
+{"round": 1, "tool": "search", "query": "Claude Code recent features", "status": "success", "source": "https://code.claude.com/docs/en/changelog"}
+{"round": 1, "tool": "search", "query": "Claude Code speed", "status": "success", "source": "https://code.claude.com/docs/en/fast-mode"}
+{"round": 1, "tool": "search", "query": "Claude Code context size", "status": "success", "source": "https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans"}
+{"round": 1, "tool": "search", "query": "Claude Code reliability", "status": "success", "source": "https://www.anthropic.com/engineering/april-23-postmortem"}
+{"round": 2, "tool": "image_search", "query": "latest MacBook ports", "status": "success", "source": "https://www.apple.com/macbook-pro/specs/"}
+{"round": 2, "tool": "image_search", "query": "latest MacBook keyboard", "status": "success", "source": "https://support.apple.com/guide/macbook-neo/magic-keyboard-apdab672d5e9/mac"}
+{"round": 2, "tool": "image_search", "query": "latest MacBook body", "status": "success", "source": "https://www.apple.com/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/"}
+{"round": 2, "tool": "image_search", "query": "Claude Code terminal", "status": "success", "source": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"}
+{"round": 2, "tool": "image_search", "query": "Claude Code diff tool call", "status": "success", "source": "https://code.claude.com/docs/en/vs-code"}
+{"round": 2, "tool": "image_search", "query": "Claude Code overall UI", "status": "success", "source": "https://claude.com/product/claude-code"}
