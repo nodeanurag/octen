@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "octen": {
+      "url": "https://mcp.octen.ai/mcp",
+      "headers": {
+        "x-api-key": "your_octen_api_key_here"
+      }
+    }
+  }
+}
